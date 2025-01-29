@@ -14,6 +14,7 @@ use pocketmine\event\player\PlayerQuitEvent;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\player\PlayerChangeSkinEvent;
 
+use VsrStudio\Npcs3D\Form\Form;
 use VsrStudio\Npcs3D\Form\SimpleForm;
 
 class Main extends PluginBase implements Listener {
