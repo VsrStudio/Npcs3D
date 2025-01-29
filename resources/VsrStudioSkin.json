@@ -1,2 +1,17 @@
-## No Sell Bruh This Free
-## Create By VsrStudio
+{
+  "name": "Npcs3D",
+  "version": "1.0.0",
+  "authors": [
+    "VsrStudio"
+  ],
+  "description": "Npcs3D Cubecraft 35Skins",
+  "website": "https://discord.gg/kEZV6KAT",
+  "credits": {
+    "contributors": [
+      {
+        "name": "VsrStudio",
+        "role": "Developer"
+      },
+    ]
+  }
+}
