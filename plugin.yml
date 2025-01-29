@@ -1,4 +1,4 @@
-name: Npcs3D
+name: Npcs3D-Vsr
 main: VsrStudio\Npcs3D\Main
 api: 5.0.0
 version: 1.0.0
