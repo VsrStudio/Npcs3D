@@ -1,0 +1,86 @@
+name: Npcs3D
+main: VsrStudio\Npcs3D\Main
+api: 5.0.0
+version: 1.0.0
+author: VsrStudio
+
+commands:
+  npcs:
+    description: §bCubeCraft Npc3D All Skin
+    permission: npcs.command
+
+permissions:
+  npcs.command:
+    default: true
+  duel.skin:
+    default: op
+  bad.skin:
+    default: op
+  baf.skin:
+    default: op
+  bag.skin:
+    default: op
+  bwt.skin:
+    default: op
+  bg.skin:
+    default: op
+  bwbd.skin:
+    default: op
+  bwb.skin:
+    default: op
+  bwcd.skin:
+    default: op
+  bwc.skin:
+    default: op
+  bwg.skin:
+    default: op
+  cc.skin:
+    default: op
+  s1.skin:
+    default: op
+  s2.skin:
+    default: op
+  s3.skin:
+    default: op
+  s4.skin:
+    default: op
+  s5.skin:
+    default: op
+  s6.skin:
+    default: op
+  s7.skin:
+    default: op
+  s8.skin:
+    default: op
+  s9.skin:
+    default: op
+  s10.skin:
+    default: op
+  s11.skin:
+    default: op
+  s12.skin:
+    default: op
+  s13.skin:
+    default: op
+  s14.skin:
+    default: op
+  s15.skin:
+    default: op
+  s16.skin:
+    default: op
+  s17.skin:
+    default: op
+  s18.skin:
+    default: op
+  s19.skin:
+    default: op
+  s20.skin:
+    default: op
+  s21.skin:
+    default: op
+  s22.skin:
+    default: op
+  s23.skin:
+    default: op
+  s24.skin:
+    default: op
